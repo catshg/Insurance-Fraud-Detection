@@ -70,7 +70,22 @@ Evaluation – Compared results and interpreted key predictors.
 
 
 
+
+# Applying CRT Model
+
+
+
 <img width="1856" height="903" alt="after crtmodel" src="https://github.com/user-attachments/assets/11d5eb44-b8bb-41f5-9de5-a1a765d9e1c0" />
+
+
+
+# Logistic Model
+
+
+<img width="700" height="575" alt="Screenshot 2025-11-01 113644" src="https://github.com/user-attachments/assets/65ea9aaf-03ce-4021-80a5-02c5655d8fc9" />
+
+
+
 
 # Conclusion:
 
