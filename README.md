@@ -79,4 +79,6 @@ The models accurately detected fraudulent claims, providing insights into custom
 
  
 Vanshika Gupta
-Data Science & Analytics Project | IBM SPSS Modeler
+Data Science & Analytics Project
+IBM SPSS Modeler
+
