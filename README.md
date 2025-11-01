@@ -37,7 +37,7 @@ IBM SPSS Modeler – for building and analyzing predictive models
 
 Data Mining Techniques – Logistic Regression, C&R Tree
 
-Data Visualization – Distribution Graphs, Bar Charts
+Data Visualization – Distribution Graphs
 
 Dataset – https://www.kaggle.com/datasets/buntyshah/auto-insurance-claims-data?select=insurance_claims.csv (features include claim amount, incident severity, hobbies, etc.)
 
