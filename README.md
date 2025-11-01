@@ -66,6 +66,8 @@ Evaluation – Compared results and interpreted key predictors.
 
 
 
+<img width="1920" height="1020" alt="finalreport" src="https://github.com/user-attachments/assets/cab68014-db76-4e10-bd53-9ce0820352c1" />
+
 # Conclusion:
 
 
