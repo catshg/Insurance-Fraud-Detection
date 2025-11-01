@@ -1,7 +1,7 @@
 # Insurance-Fraud-Prediction-Using-IBM SPSS Modeler
 
 
-Project Overview
+#Project Overview
 
 This project focuses on detecting fraudulent insurance claims using IBM SPSS Modeler.
 By applying Logistic Regression and C&R Tree (Classification & Regression Tree) models, we 
