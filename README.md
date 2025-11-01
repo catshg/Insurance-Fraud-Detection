@@ -68,6 +68,10 @@ Evaluation – Compared results and interpreted key predictors.
 
 <img width="1920" height="1020" alt="finalreport" src="https://github.com/user-attachments/assets/cab68014-db76-4e10-bd53-9ce0820352c1" />
 
+
+
+<img width="1856" height="903" alt="after crtmodel" src="https://github.com/user-attachments/assets/11d5eb44-b8bb-41f5-9de5-a1a765d9e1c0" />
+
 # Conclusion:
 
 
