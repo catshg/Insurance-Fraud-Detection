@@ -1,14 +1,17 @@
 # Insurance-Fraud-Prediction-Using-IBM SPSS Modeler
 
 
-#Project Overview
+#Project Overview:
+
 
 This project focuses on detecting fraudulent insurance claims using IBM SPSS Modeler.
 By applying Logistic Regression and C&R Tree (Classification & Regression Tree) models, we 
 analyze various claim-related factors to identify patterns and predict the likelihood of fraud.
 
 
-Problem Statement
+
+# Problem Statement:
+
 
 Insurance companies face heavy financial losses due to false or fraudulent claims.
 
@@ -17,7 +20,8 @@ The challenge is to analyze claim data and predict which customers are most like
 Using SPSS Modeler, this project automates fraud detection and improves risk management.
 
 
-The main goal of this project is to:
+
+# The main goal of this project is to:
 
 Identify fraudulent claims based on data patterns.
 
@@ -26,7 +30,8 @@ Reduce losses for insurance companies.
 Automate fraud detection using predictive modeling.
 
 
-Tools & Techniques Used
+
+# Tools & Techniques Used:
 
 IBM SPSS Modeler – for building and analyzing predictive models
 
@@ -37,7 +42,8 @@ Data Visualization – Distribution Graphs, Bar Charts
 Dataset – https://www.kaggle.com/datasets/buntyshah/auto-insurance-claims-data?select=insurance_claims.csv (features include claim amount, incident severity, hobbies, etc.)
 
 
-Workflow
+
+# Workflow:
 
 Data Import – Loaded insurance claim dataset.
 
@@ -50,19 +56,25 @@ Modeling – Applied Logistic Regression and C&R Tree models.
 Evaluation – Compared results and interpreted key predictors.
 
 
-Results
+
+# Results:
+
 
 76.7% claims were Non-Fraudulent.
 
 23.3% claims were Fraudulent.
 
 
-Conclusion
+
+# Conclusion:
+
 
 The models accurately detected fraudulent claims, providing insights into customer behavior and helping insurers minimize risk and save costs.
 
 
- Author
+
+# Author:
+
  
 Vanshika Gupta
 Data Science & Analytics Project | IBM SPSS Modeler
